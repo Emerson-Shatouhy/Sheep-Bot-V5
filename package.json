@@ -1,0 +1,28 @@
+{
+  "name": "sheepbotv5",
+  "version": "5.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.5.0",
+    "canvas-constructor": "^3.1.0",
+    "discord.js": "github:discordjs/discord.js",
+    "klasa": "github:dirigeants/klasa#master",
+    "klasa-dashboard-hooks": "github:dirigeants/klasa-dashboard-hooks",
+    "klasa-member-gateway": "github:dirigeants/klasa-member-gateway",
+    "marvel-api": "^1.1.0",
+    "node-opus": "^0.3.2",
+    "node-wolfram-alpha": "^1.2.5",
+    "rethinkdb": "^2.3.3",
+    "rethinkdb-ts": "^2.4.0-rc.13",
+    "snekfetch": "^4.0.4",
+    "wolfram": "^0.3.4",
+    "wolfram-alpha": "^0.6.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

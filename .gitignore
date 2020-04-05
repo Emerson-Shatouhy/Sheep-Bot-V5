@@ -1,0 +1,6 @@
+app.js
+rethinkdb.exe
+start.bat
+rethinkdb_data
+bwd
+node_modules
